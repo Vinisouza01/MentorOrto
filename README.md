@@ -1,2 +1,0 @@
-# MentorOrto
-Ia auxiliar ortodontica
